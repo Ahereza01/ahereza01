@@ -2,12 +2,17 @@
 
 Am Vivian, a software engineer and a product lead. An open minded person and always eager to learn anything new as long as it adds value to my personal and career growth.
 
+SKILLS;
+-Proficient in HTML, CSS, and Python
+-Good leadership and Communication skills
+-Frontend Development
+
 
 - 🔭 I’m currently working on:
   An Ecommerce system of Xtreative-market and
   EnigmaKreative website.
 - 🌱 I’m currently learning:
-  Product Management and Data Analysis 
+  Product Management and Data Analysis. 
 - 👯 I’m looking to collaborate on:
  Open-source projects, mobile apps, or anything creative in the eCommerce or fintech space. Not forgetting product management.
   
