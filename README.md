@@ -1,8 +1,8 @@
  Hi there 👋
 
-Am Vivian, a software engineer and a product lead. An open minded person and always eager to learn anything new as long as it adds value to my personal and career growth.
+Am Vivian, a junior developer and a product lead. An open minded person and always eager to learn anything new as long as it adds value to my personal and career growth.
 
-SKILLS;
+*SKILLS;*
 -Proficient in HTML, CSS, and Python
 -Good leadership and Communication skills
 -Frontend Development
